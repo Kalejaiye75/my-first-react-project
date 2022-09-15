@@ -1,0 +1,18 @@
+.login-div {
+    height: 100vh;
+}
+
+.login-container {
+    background-color: rgb(245, 246, 247);
+    height: 40%;
+    width: 80%;
+    max-width: 1000px;
+    margin-top: 3rem;
+    padding: 0 1rem;
+}
+
+.login-container h1 {
+    font-size: 20px;
+    margin: 1rem 0;
+    color: #242424;
+}
